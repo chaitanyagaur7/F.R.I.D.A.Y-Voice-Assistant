@@ -1,0 +1,5 @@
+os==0.1.4
+SpeechRecognition==3.8.1
+pywin32==301
+datetime==4.3
+openai==0.27.0
